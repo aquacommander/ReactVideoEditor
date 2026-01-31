@@ -25,7 +25,7 @@ PEXELS_API_KEY=""
 Clone locally:
 
 ```bash
-git clone git@github.com:designcombo/react-video-editor.git
+git clone git@github.com:aquacommander/ReactVideoEditor.git
 cd react-video-editor
 pnpm install
 pnpm dev
